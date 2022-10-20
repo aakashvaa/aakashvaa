@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Verma</h1>
 <h3 align="center">A passionate frontend developer and linux enthusisast & baby boy in DSA and Blockchain development.</h3>
 
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, JavaScript**
@@ -26,13 +25,12 @@
 <img align="left"  alt="Linux"  src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
 <img  alt="Git"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-
+</br></br>
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=AkashKumar-0&theme=rose_pine&show_icons=true" />
-
 <img width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKumar-0&theme=rose_pine&layout=compact" />
 
 <h3 align="left">Projects : </h3>
-<a   href="https://github.com/AkashKumar-0/Bankist-Web-Page">
+<a  href="https://github.com/AkashKumar-0/Bankist-Web-Page">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Bankist-Web-Page" />
 </a>
 <a  href="https://github.com/AkashKumar-0/Figma-Project">
@@ -50,11 +48,8 @@
 </a>
 <a   href="https://github.com/AkashKumar-0/crowd-funding">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=crowd-funding" />
-</a>
-
 
 <h3 >Connect with me:</h3>
-</br>
 <a href="https://linkedin.com/in/akash kumar verma" target="blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash kumar verma" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ahmvaad@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
