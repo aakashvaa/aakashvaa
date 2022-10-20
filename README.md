@@ -40,7 +40,7 @@
   <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=fb_clone" />
 </a>
 <p></p>
-<a   href="https://github.com/AkashKumar-0/Pig-Gamer">
+<a   href="https://github.com/AkashKumar-0/Pig-Game">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Pig-Game" />
 </a>
 <a  href="https://github.com/AkashKumar-0/lottery-smart-contract">
