@@ -17,9 +17,9 @@
 <img align="left"  alt="CSS3"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left"  alt="JavaAcript"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img  align="left"  alt="ReactJs"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left"  alt="Blockchain"  src="https://img.shields.io/badge/blockchain-2F3134?style=for-the-badge&logo=blockchain&logoColor=white" />
+<img  alt="Blockchain"  src="https://img.shields.io/badge/blockchain-2F3134?style=for-the-badge&logo=blockchain&logoColor=white" />
 <p></p>
-<img alt="Bitcoin"  src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img  align="left" alt="Bitcoin"  src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
 <img align="left"  alt="Ethereum"  src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
 <img align="left"  alt="Solidity"  src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
 <img align="left"  alt="Canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
