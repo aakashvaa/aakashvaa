@@ -53,8 +53,10 @@
 </a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash kumar verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kumar verma" height="20" width="30" /></a>
-</p>
+<h3 >Connect with me:</h3>
+</br>
+<a href="https://linkedin.com/in/akash kumar verma" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kumar verma" height="20" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ahmvaad@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
