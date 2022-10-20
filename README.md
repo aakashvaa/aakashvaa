@@ -55,7 +55,7 @@
 
 <h3 >Connect with me:</h3>
 </br>
-<a href="https://linkedin.com/in/akash kumar verma" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash kumar verma" height="20" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/akash kumar verma" target="blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash kumar verma" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ahmvaad@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
