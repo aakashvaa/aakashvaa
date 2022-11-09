@@ -48,7 +48,10 @@
 </a>
 <a   href="https://github.com/AkashKumar-0/crowd-funding">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=crowd-funding" />
-
+<p></p>
+  <a   href="https://github.com/AkashKumar-0/generateRandomPassword.github.io">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=generateRandomPassword.github.io" />
+    
 <h3 >Connect with me:</h3>
 <a href="https://linkedin.com/in/akash kumar verma" target="blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash kumar verma" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ahmvaad@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
