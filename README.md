@@ -36,8 +36,8 @@
 <a  href="https://github.com/AkashKumar-0/Figma-Project">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Figma-Project" />
 </a>
-<a   href="https://github.com/AkashKumar-0/fb_clone">
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=fb_clone" />
+<a   href="https://github.com/AkashKumar-0/fbClone.github.io">
+  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=fbClone.github.io" />
 </a>
 <p></p>
 <a   href="https://github.com/AkashKumar-0/Pig-Game">
