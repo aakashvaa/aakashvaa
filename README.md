@@ -29,7 +29,8 @@
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=AkashKumar-0&theme=rose_pine&show_icons=true" />
 <img width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKumar-0&theme=rose_pine&layout=compact" />
 
-<h3 align="left">Projects : </h3>
+<h3 align="center">Projects : </h3>
+
 <a  href="https://github.com/AkashKumar-0/Bankist-Web-Page">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Bankist-Web-Page" />
 </a>
@@ -44,17 +45,25 @@
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Pig-Game" />
 </a>
 <a  href="https://github.com/AkashKumar-0/lottery-smart-contract">
-  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=lottery-smart-contract" />
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=lottery-smart-contract" />
 </a>
 <a   href="https://github.com/AkashKumar-0/crowd-funding">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=crowd-funding" />
+  </a>
 <p></p>
   <a   href="https://github.com/AkashKumar-0/ranPassword.github.io">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=ranPassword.github.io" />
-    
-<h3 >Connect with me:</h3>
-<a href="https://linkedin.com/in/akash kumar verma" target="blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash kumar verma" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ahmvaad@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=ranPassword.github.io" />
+  </a>
+    <a   href="https://github.com/AkashKumar-0/Monster-Rolodex">
+  <img width="30%"   src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Monster-Rolodex" />
+  </a>
 
+<h3  align="center">Connect with me:</h3>
+<div align="center"   >
+<a href="https://linkedin.com/in/akash kumar verma" target="blank">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash kumar verma" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ahmvaad@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+  <img align="center"  src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 
