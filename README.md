@@ -31,17 +31,17 @@
 
 <h3 align="center">Projects : </h3>
 
-<a  href="https://github.com/AkashKumar-0/Bankist-Web-Page">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Bankist-Web-Page" />
+<a  href="https://akashkumar-0.github.io/Bankist-Web-Page.github.io/">
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Bankist-Web-Page.github.io" />
 </a>
-<a  href="https://github.com/AkashKumar-0/Figma-Project">
+<a  href="https://akashkumar-0.github.io/Figma-Project/">
   <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Figma-Project" />
 </a>
 <a   href="https://github.com/AkashKumar-0/fbClone.github.io">
   <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=fbClone.github.io" />
 </a>
 <p></p>
-<a   href="https://github.com/AkashKumar-0/Pig-Game">
+<a   href="https://akashkumar-0.github.io/Pig-Game/">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Pig-Game" />
 </a>
 <a  href="https://github.com/AkashKumar-0/lottery-smart-contract">
