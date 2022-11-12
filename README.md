@@ -34,15 +34,13 @@
 <a  href="https://akashkumar-0.github.io/Bankist-Web-Page.github.io/">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Bankist-Web-Page.github.io" />
 </a>
-<a  href="https://akashkumar-0.github.io/Figma-Project/">
-  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Figma-Project" />
+ <a   href="https://github.com/AkashKumar-0/Monster-Rolodex">
+  <img width="30%" align="left"   src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Monster-Rolodex" />
+  </a>
+<a   href="https://akashkumar-0.github.io/Mapty--app.github.io/">
+  <img width="30%"   src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Mapty--app.github.io">
 </a>
-<a   href="https://github.com/AkashKumar-0/fbClone.github.io">
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=fbClone.github.io" />
-</a>
-
 <p></p>
-
 <a  href="https://akashkumar-0.github.io/bankist-webPage.github.io/">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=bankist-webPage.github.io" />
 </a>
@@ -53,19 +51,16 @@
   <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=ranPassword.github.io" />
   </a>
 <p></p>
-<a   href="https://github.com/AkashKumar-0/crowd-funding">
-  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=crowd-funding" />
-  </a>
-    <a   href="https://github.com/AkashKumar-0/Monster-Rolodex">
-  <img width="30%" align="left"   src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Monster-Rolodex" />
-  </a>
-  <a  href="https://github.com/AkashKumar-0/lottery-smart-contract">
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=lottery-smart-contract" />
+  
+  <a  href="https://akashkumar-0.github.io/Figma-Project/">
+  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Figma-Project" />
 </a>
+<a   href="https://github.com/AkashKumar-0/fbClone.github.io">
+  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=fbClone.github.io" />
+</a>
+  
   <p></p>
- <a   href="https://akashkumar-0.github.io/Mapty--app.github.io/">
-  <img width="30%"   src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Mapty--app.github.io">
-</a>
+ 
 
 <h3  align="center">Connect with me:</h3>
 <div align="center"   >
