@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahmvaad@gmail.com**
 
-<h3 >Languages and Tools:</h3>
+<h3 align="center" >Languages and Tools:</h3>
 <img align="left"  alt="C"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left"  alt="C++"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left"  alt="HTML5"  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,12 +25,10 @@
 <img align="left"  alt="Linux"  src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
 <img  alt="Git"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-</br></br>
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=AkashKumar-0&theme=rose_pine&show_icons=true" />
-<img width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKumar-0&theme=rose_pine&layout=compact" />
+<img width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKumar-0&theme=rose_pine&layout=compact" />
 
-<h3 align="center">Projects : </h3>
-
+<h3 align="center">Projects :</h3>
 <a  href="https://akashkumar-0.github.io/Bankist-Web-Page.github.io/">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Bankist-Web-Page.github.io" />
 </a>
