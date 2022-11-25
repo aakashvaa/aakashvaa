@@ -22,7 +22,8 @@
 <img align="left"  alt="Ethereum"  src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
 <img align="left"  alt="Solidity"  src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
 <img align="left"  alt="Canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-<img align="left"  alt="Linux"  src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
+<img align="left"  alt="Linux"  src="https://img.shields.io/badge/Linux-87CF3E?style=for-the-badge&logo=Linuxt&logoColor=white" />
+<img align="left"  alt="firebase"  src="https://img.shields.io/badge/firebase-%23F05033.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 <img  alt="Git"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=AkashKumar-0&theme=rose_pine&show_icons=true" />
