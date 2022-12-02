@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Verma</h1>
 <h3 align="center">A passionate frontend developer and linux enthusisast & baby boy in DSA and Blockchain development.</h3>
+<p > <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKumar-0&label=Profile%20views&color=0e75b6&style=flat" alt="akash" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🌱 I’m currently learning **ReactJs, JavaScript**
 
 - 💬 Ask me about **frontend development**
 
-- 📫 How to reach me **ahmvaad@gmail.com**
+
+<h3 >Connect with me:</h3>
+
+<a href="https://linkedin.com/in/akash kumar verma" target="blank">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash kumar verma" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ahmvaad@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+  <img align="center"  src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 <h3 align="center" >Languages and Tools:</h3>
 <img align="left"  alt="C"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -61,12 +72,5 @@
   <p></p>
  
 
-<h3  align="center">Connect with me:</h3>
-<div align="center"   >
-<a href="https://linkedin.com/in/akash kumar verma" target="blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash kumar verma" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ahmvaad@gmail.com?subject=Hello%20Ileri,%20From%20Github">
-  <img align="center"  src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
 
 
