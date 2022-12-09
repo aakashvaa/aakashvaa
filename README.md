@@ -47,7 +47,7 @@
  <a   href="https://github.com/AkashKumar-0/Monster-Rolodex">
   <img width="30%" align="left"   src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Monster-Rolodex" />
   </a>
-<a   href="https://akashkumar-0.github.io/Mapty--app.github.io/">
+<a   href="https://mapty-travel-mark.netlify.app/">
   <img width="30%"   src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Mapty--app.github.io">
 </a>
 <p></p>
