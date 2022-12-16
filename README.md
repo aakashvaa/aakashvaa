@@ -2,7 +2,10 @@
 <h3 align="center">A passionate frontend developer and linux enthusisast & baby boy in DSA and Blockchain development.</h3>
 <p > <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AkashKumar-0&label=Profile%20views&color=0e75b6&style=flat" alt="akash" /> </p>
+
+<a align="right"  href="https://visitcount.itsvg.in">
+  <img  src="https://visitcount.itsvg.in/api?id=AkashKumar-0&label=Profile%20Views&color=0&icon=6&pretty=true" />
+</a>
 
 
 
