@@ -1,15 +1,16 @@
+
 <h1 align="center">Hi 👋, I'm Akash Kumar Verma</h1>
 <h3 align="center">A passionate frontend developer and linux enthusisast & baby boy in DSA and Blockchain development.</h3>
 <p > <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
 <a align="right"  href="https://visitcount.itsvg.in">
-  <img  src="https://visitcount.itsvg.in/api?id=AkashKumar-0&label=Profile%20Views&color=0&icon=6&pretty=true" />
+  <img  src="https://visitcount.itsvg.in/api?id=akaashvaa&label=Profile%20Views&color=0&icon=6&pretty=true" />
 </a>
 
 
 
-- 🌱 I’m currently learning **ReactJs, JavaScript**
+- 🌱 I’m currently learning **Typescript, Python, Nodejs**
 
 - 💬 Ask me about **frontend development**
 
@@ -40,42 +41,31 @@
 <img align="left"  alt="firebase"  src="https://img.shields.io/badge/firebase-%23F05033.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 <img  alt="Git"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=AkashKumar-0&theme=rose_pine&show_icons=true" />
-<img width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKumar-0&theme=rose_pine&layout=compact" />
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=akaashvaa&theme=rose_pine&show_icons=true" />
+<img width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaashvaa&theme=rose_pine&layout=compact" />
 
 <h3 align="center">Projects :</h3>
-<a  href="https://akashkumar-0.github.io/Bankist-Web-Page.github.io/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Bankist-Web-Page.github.io" />
+<a  href="https://akaashvaa.github.io/Bankist-Web-Page.github.io/">
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Bankist-Web-Page.github.io" />
 </a>
- <a   href="https://github.com/AkashKumar-0/Monster-Rolodex">
-  <img width="30%" align="left"   src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Monster-Rolodex" />
-  </a>
 <a   href="https://mapty-travel-mark.netlify.app/">
-  <img width="30%"   src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Mapty--app.github.io">
-</a>
-<p></p>
-<a  href="https://akashkumar-0.github.io/bankist-webPage.github.io/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=bankist-webPage.github.io" />
-</a>
-<a   href="https://foodify-site.netlify.app/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=foodify" />
-</a>
-  <a   href="https://akashkumar-0.github.io/ranPassword.github.io/">
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=ranPassword.github.io" />
-  </a>
-<p></p>
-  
-  <a  href="https://akashkumar-0.github.io/Figma-Project/">
-  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Figma-Project" />
+  <img width="30%"   src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Mapty--app.github.io">
 </a>
 
-<a   href="https://akashkumar-0.github.io/Pig-Game/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Pig-Game" />
+<a  href="https://akaashvaa.github.io/bankist-webPage.github.io/">
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=bankist-webPage.github.io" />
 </a>
-<a   href="https://github.com/AkashKumar-0/fbClone.github.io">
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=fbClone.github.io" />
+<p></p>
+<a   href="https://foodify-site.netlify.app/">
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=foodify" />
 </a>
-  
+  <a   href="https://akaashvaa.github.io/ranPassword.github.io/">
+  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=ranPassword.github.io" />
+  </a>
+<a   href="https://akaashvaa.github.io/Pig-Game/">
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Pig-Game" />
+</a>
+
   <p></p>
  
 
