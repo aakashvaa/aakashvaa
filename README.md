@@ -45,15 +45,15 @@
 <img width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaashvaa&theme=rose_pine&layout=compact" />
 
 <h3 align="center">Projects :</h3>
+
+<a  href="https://fashion-globe.netlify.app/">
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Fashion-Globe" />
+ </a>
 <a  href="https://akaashvaa.github.io/Bankist-Web-Page.github.io/">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Bankist-Web-Page.github.io" />
 </a>
 <a   href="https://mapty-travel-mark.netlify.app/">
   <img width="30%"   src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Mapty--app.github.io">
-</a>
-
-<a  href="https://akaashvaa.github.io/bankist-webPage.github.io/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=bankist-webPage.github.io" />
 </a>
 <p></p>
 <a   href="https://foodify-site.netlify.app/">
@@ -65,9 +65,10 @@
 <a   href="https://akaashvaa.github.io/Pig-Game/">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Pig-Game" />
 </a>
-
   <p></p>
- 
+<a  href="https://akaashvaa.github.io/bankist-webPage.github.io/">
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=bankist-webPage.github.io" />
+</a> 
 
 
 
