@@ -41,8 +41,8 @@
 <img align="left"  alt="firebase"  src="https://img.shields.io/badge/firebase-%23F05033.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 <img  alt="Git"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=akaashvaa&theme=rose_pine&show_icons=true" />
-<img width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaashvaa&theme=rose_pine&layout=compact" />
+<img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api?username=akaashvaa&theme=rose_pine&show_icons=true" />
+<img width="30%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaashvaa&theme=rose_pine&layout=compact" />
 
 <h3 align="center">Projects :</h3>
 
