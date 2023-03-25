@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Typescript, Python, Nodejs**
 
-- 💬 Ask me about **frontend development**
+- 💬 curious about **next.js and vite**
 
 
 <h3 >Connect with me:</h3>
