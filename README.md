@@ -69,6 +69,9 @@
 <a  href="https://akaashvaa.github.io/bankist-webPage.github.io/">
   <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=bankist-webPage.github.io" />
 </a> 
+<a  href="https://qrcodegenscan.netlify.app/">
+  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=qr-tag-gen-scan" />
+</a> 
 
 
 
