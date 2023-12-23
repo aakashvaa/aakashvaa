@@ -27,9 +27,9 @@
 ---
   <h3 align="center" > Github Stats  </h3>
 
-<div align="center">
+<div align="center" >
   
-<img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api?username=akaashvaa&theme=rose_pine&show_icons=true" />
+<img width="40%"  src="https://github-readme-stats.vercel.app/api?username=akaashvaa&theme=rose_pine&show_icons=true" />
 
 <img width="30%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaashvaa&theme=rose_pine&layout=compact" />
 </div>
