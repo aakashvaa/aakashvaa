@@ -34,34 +34,50 @@
 <img width="30%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaashvaa&theme=rose_pine&layout=compact" />
 </div>
 
-<h3 align="center">Projects :</h3>
 
-<a  href="https://fashion-globe.netlify.app/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Fashion-Globe" />
- </a>
-<a  href="https://akaashvaa.github.io/Bankist-Web-Page.github.io/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Bankist-Web-Page.github.io" />
-</a>
-<a   href="https://mapty-travel-mark.netlify.app/">
-  <img width="30%"   src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Mapty--app.github.io">
-</a>
-<p></p>
-<a   href="https://foodify-site.netlify.app/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=foodify" />
-</a>
-  <a   href="https://akaashvaa.github.io/ranPassword.github.io/">
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=ranPassword.github.io" />
+
+## Projects:
+
+<div align="center">
+  <a href="https://fashion-globe.netlify.app/">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Fashion-Globe" />
   </a>
-<a   href="https://akaashvaa.github.io/Pig-Game/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Pig-Game" />
-</a>
-  <p></p>
-<a  href="https://akaashvaa.github.io/bankist-webPage.github.io/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=bankist-webPage.github.io" />
-</a> 
-<a  href="https://qrcodegenscan.netlify.app/">
-  <img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=qr-tag-gen-scan" />
-</a> 
+  <a href="https://uvault-phi.vercel.app/">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=uvault-client" />
+  </a>
+  <a href="https://akaashvaa.github.io/Bankist-Web-Page.github.io/">
+    <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Bankist-Web-Page.github.io" />
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://literary-council.vercel.app/">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=literaryCouncil" />
+  </a>
+    <a href="https://www.npmjs.com/package/githelper125">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=git-helper" />
+  </a>
+    <a href="https://akaashvaa.github.io/bankist-webPage.github.io/">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=bankist-webPage.github.io" />
+  </a>
 
+</div>
+
+<div align="center">
+  <a href="https://qrcodegenscan.netlify.app/">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=qr-tag-gen-scan" />
+  </a>
+  <a href="https://akaashvaa.github.io/ranPassword.github.io/">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=ranPassword.github.io" />
+  </a>
+  <a href="https://mapty-travel-mark.netlify.app/">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=Mapty--app.github.io">
+  </a>
+ 
+</div>
+<div align="center">
+ <a href="https://foodify-site.netlify.app/">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&theme=rose_pine&repo=foodify" />
+  </a>
+</div>
 
