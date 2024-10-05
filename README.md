@@ -1,16 +1,14 @@
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Akash Kumar Verma" width="100" height="100" style="border-radius: 50%; border: 2px solid #4CAF50;" />
   
-  # Hi there, I'm Akash Kumar Verma 👋
+  # Hi there, I'm Akash Verma 👋
 
-  [![Profile Views](https://visitcount.itsvg.in/api?id=akaashvaa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 👨‍💻 Full Stack Developer | Continuous Learner | Code Enthusiast
-
-  <p>
-    Passionate about crafting elegant solutions and pushing the boundaries of web development.
-    Always excited to learn new technologies and tackle challenging problems.
-  </p>
+  [![Profile Views](https://visitcount.itsvg.in/api?id=akaashvaa&icon=0&color=a)](https://visitcount.itsvg.in)
+  <h3>
+  👨‍💻 My colleges knew me as a Full Stack Dev
+  </h3>
+  <h3>
+   A lazy and average workaholic nerd trying to code. 
+  </h3>
 </div>
 
 ## 🚀 Skills & Technologies
