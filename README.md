@@ -64,7 +64,7 @@
           <a href="https://github.com/akaashvaa/uvault-client" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
           </a>  
-          <a href="https://uvault-client.vercel.app" target="_blank">
+          <a href="https://uvault-phi.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=firefox"/>
           </a>
         </p>
@@ -78,7 +78,7 @@
           <a href="https://github.com/akaashvaa/trelloClient" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
           </a>  
-          <a href="https://trello-clone.vercel.app" target="_blank">
+          <a href="https://github.com/akaashvaa/trelloClient" target="_blank">
             <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=firefox"/>
           </a>
         </p>
@@ -92,7 +92,7 @@
           <a href="https://github.com/akaashvaa/chess-fe" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
           </a>  
-          <a href="https://chess-game.vercel.app" target="_blank">
+          <a href="https://chess-mu-seven.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=firefox"/>
           </a>
         </p>
