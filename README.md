@@ -4,7 +4,7 @@
 
   [![Profile Views](https://visitcount.itsvg.in/api?id=akaashvaa&icon=0&color=a)](https://visitcount.itsvg.in)
   <h3>
-  👨‍💻 My colleges knew me as a Full Stack Dev
+  👨‍💻 My colleagues knew me as a Full Stack Dev
   </h3>
   <h3>
    A lazy and average workaholic nerd trying to code. 
