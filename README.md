@@ -2,16 +2,24 @@
   
   # Hi there, I'm Akash Verma 👋
 
-  [![Profile Views](https://visitcount.itsvg.in/api?id=akaashvaa&icon=0&color=a)](https://visitcount.itsvg.in)
-  <h3>
-  👨‍💻 My colleagues knew me as a Full Stack Dev
-  </h3>
-  <h3>
-   A lazy and average workaholic nerd trying to code. 
-  </h3>
+<!--  [![Profile Views](https://visitcount.itsvg.in/api?id=akaashvaa&icon=0&color=a)](https://visitcount.itsvg.in) -->
+  <p>
+     my work is to find the best suited solution for problems and make UI better.
+    
+   Make it work, make it right, make it fast ~ Kent Beck
+    
+  </p>
 </div>
-
-## 🚀 Skills & Technologies
+<details>
+  <summary>📊 GitHub Stats</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=akaashvaa&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaashvaa&theme=radical&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaashvaa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </div>
+</details>
+<details>
+  <summary>🚀 Skills & Technologies</summary>
 
 <div align="center">
 
@@ -25,7 +33,6 @@
   ### Frontend
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -38,15 +45,15 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
   ### Databases & DevOps
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+ 
+</details>
 
 ## 🌟 Featured Projects
 
@@ -99,17 +106,8 @@
   </table>
 </div>
 
-## 📊 GitHub Stats
 
-<details>
-  <summary>Click to view GitHub Stats</summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=akaashvaa&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaashvaa&theme=radical&hide_border=false" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaashvaa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  </div>
-</details>
-
+<!--
 ## 🏆 GitHub Trophies
 
 <details>
@@ -118,7 +116,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=akaashvaa&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </div>
 </details>
-
+-->
 ## 🤝 Connect with me
 
 <div align="center">
@@ -133,8 +131,8 @@
   </a>
 </div>
 
----
 
+<!--
 <div align="center">
   <blockquote class="p-4 my-4 border-l-4 border-gray-300 bg-gray-50 dark:border-gray-500 dark:bg-gray-800">
     <p class="text-xl italic font-medium leading-relaxed text-gray-900 dark:text-white">
@@ -143,8 +141,7 @@
     <cite class="block mt-2 text-sm text-gray-600 dark:text-gray-400">- Sam Levenson</cite>
   </blockquote>
 </div>
-
+-->
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Thanks for visiting!" width="300" />
   <p>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.</p>
 </div>
