@@ -49,7 +49,7 @@
 </details>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aakash-verma-2508ba218/" target="_blank">linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/aakashvaa" target="_blank">linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ahmvaad@gmail.com?subject=Hello%20Akash,%20From%20Github">mail</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/aakashvaa" target="_blank">X</a>
 </div>
