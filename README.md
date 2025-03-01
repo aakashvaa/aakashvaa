@@ -1,13 +1,8 @@
 <div align="center">
   
-  ### Hi, I'm [Akash Verma](https://aakashvaa-portfolio.vercel.app/)
-
-<!--  [![Profile Views](https://visitcount.itsvg.in/api?id=akaashvaa&icon=0&color=a)](https://visitcount.itsvg.in) -->
-  <p>
-     my work is to find the best suited solution for problems and make UI better. </br>
-     Make it work, make it right, make it fast ~ Kent Beck
+  ### Hi, I'm [Akash Verma](https://aakashvaa.vercel.app/)
+ Make it work, make it right, make it fast ~ Kent Beck
     
-  </p>
 </div>
 <details>
   <summary>📊 GitHub Stats</summary>
@@ -54,9 +49,9 @@
 </details>
 
 <div align="center">
-  <a href="https://linkedin.com/in/akash-kumar-verma" target="_blank">linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aakash-verma-2508ba218/" target="_blank">linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ahmvaad@gmail.com?subject=Hello%20Akash,%20From%20Github">mail</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">X</a>
+  <a href="https://x.com/aakashvaa" target="_blank">X</a>
 </div>
 
 
