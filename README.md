@@ -1,12 +1,11 @@
 <div align="center">
   
-  # Hi, I'm [Akash Verma](https://aakashvaa-portfolio.vercel.app/) 👋
+  ### Hi, I'm [Akash Verma](https://aakashvaa-portfolio.vercel.app/)
 
 <!--  [![Profile Views](https://visitcount.itsvg.in/api?id=akaashvaa&icon=0&color=a)](https://visitcount.itsvg.in) -->
   <p>
-     my work is to find the best suited solution for problems and make UI better.
-    
-   Make it work, make it right, make it fast ~ Kent Beck
+     my work is to find the best suited solution for problems and make UI better. </br>
+     Make it work, make it right, make it fast ~ Kent Beck
     
   </p>
 </div>
@@ -51,97 +50,13 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
- 
+</div> 
 </details>
 
-## 🌟 Featured Projects
-
 <div align="center">
-  <table cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 15px; border: none;">
-    <tr>
-      <td style="width: 33%; border: 3px solid; border-image: linear-gradient(45deg, #ff00ff, #00ffff) 1; border-radius: 20px; padding: 10px; background-color: #2a2a2a;">
-        <h3 align="center">uVault Client</h3>
-        <a target="_blank" href="https://github.com/akaashvaa/uvault-client">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&repo=uvault-client&theme=radical" width="100%" alt="uVault Client"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/akaashvaa/uvault-client" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>  
-          <a href="https://uvault-phi.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=firefox"/>
-          </a>
-        </p>
-      </td>
-      <td style="width: 33%; border: 3px solid; border-image: linear-gradient(45deg, #ff00ff, #00ffff) 1; border-radius: 20px; padding: 10px; background-color: #2a2a2a;">
-        <h3 align="center">Trello Client</h3>
-        <a target="_blank" href="https://github.com/akaashvaa/trelloClient">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&repo=trelloClient&theme=radical" width="100%" alt="Trello Client"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/akaashvaa/trelloClient" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>  
-          <a href="https://github.com/akaashvaa/trelloClient" target="_blank">
-            <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=firefox"/>
-          </a>
-        </p>
-      </td>
-      <td style="width: 33%; border: 3px solid; border-image: linear-gradient(45deg, #ff00ff, #00ffff) 1; border-radius: 20px; padding: 10px; background-color: #2a2a2a;">
-        <h3 align="center">Chess Frontend</h3>
-        <a target="_blank" href="https://github.com/akaashvaa/chess-fe">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaashvaa&repo=chess-fe&theme=radical" width="100%" alt="Chess Frontend"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/akaashvaa/chess-fe" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>  
-          <a href="https://chess-mu-seven.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=firefox"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://linkedin.com/in/akash-kumar-verma" target="_blank">linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ahmvaad@gmail.com?subject=Hello%20Akash,%20From%20Github">mail</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank">X</a>
 </div>
 
 
-<!--
-## 🏆 GitHub Trophies
-
-<details>
-  <summary>Click to view GitHub Trophies</summary>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=akaashvaa&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </div>
-</details>
--->
-## 🤝 Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/akash-kumar-verma" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahmvaad@gmail.com?subject=Hello%20Akash,%20From%20Github">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-
-<!--
-<div align="center">
-  <blockquote class="p-4 my-4 border-l-4 border-gray-300 bg-gray-50 dark:border-gray-500 dark:bg-gray-800">
-    <p class="text-xl italic font-medium leading-relaxed text-gray-900 dark:text-white">
-      "Don't watch the clock; do what it does. Keep going."
-    </p>
-    <cite class="block mt-2 text-sm text-gray-600 dark:text-gray-400">- Sam Levenson</cite>
-  </blockquote>
-</div>
--->
-<div align="center">
-  <p>Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.</p>
-</div>
