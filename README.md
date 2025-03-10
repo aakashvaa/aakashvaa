@@ -4,6 +4,10 @@
  Make it work, make it right, make it fast ~ Kent Beck
     
 </div>
+
+- I'm a MERN fullstack developer
+- currently working on Frontend and Gen AI(langchain ecosystem)
+  
 <details>
   <summary>📊 GitHub Stats</summary>
   <div align="center">
